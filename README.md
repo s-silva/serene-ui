@@ -15,7 +15,7 @@ Install this theme using __Settings > Install__. Select the "Themes" toggle and 
 
 For the atom package page, visit: [https://atom.io/themes/serene-ui](https://atom.io/themes/serene-ui)
 
-![Serene UI Preview](https://raw.githubusercontent.com/s-silva/serene-ui/master/preview.png)
+![Serene UI Preview](https://user-images.githubusercontent.com/773899/101788486-2a55e380-3b26-11eb-8003-9b486bb35d94.png)
 
 ### Settings
 

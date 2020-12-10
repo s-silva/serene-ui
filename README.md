@@ -5,7 +5,7 @@ A dark minimal UI theme based on:
   * [`apex-adapt-dark-ui`](https://github.com/swivelgames/apex-adapt-dark-ui)
   * [`apex-ui`](https://atom.io/themes/apex-ui)
 
-*** This is a fork of [`apex-adapt-dark-ui`](https://github.com/swivelgames/apex-adapt-dark-ui) by [Swivelgames](https://github.com/swivelgames)
+### This is a fork of [`apex-adapt-dark-ui`](https://github.com/swivelgames/apex-adapt-dark-ui) by [Swivelgames](https://github.com/swivelgames)
 
 This theme works the best on [Fira Code](https://github.com/tonsky/FiraCode) font and [Gloom syntax theme](https://atom.io/themes/gloom).
 

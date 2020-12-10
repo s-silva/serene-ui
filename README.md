@@ -5,7 +5,7 @@ A dark minimal UI theme based on:
   * [`apex-adapt-dark-ui`](https://github.com/swivelgames/apex-adapt-dark-ui)
   * [`apex-ui`](https://atom.io/themes/apex-ui)
 
-[ This is a fork of [`apex-adapt-dark-ui`](https://github.com/swivelgames/apex-adapt-dark-ui) by [`apex-adapt-dark-ui`](https://github.com/swivelgames] ]
+*** This is a fork of [`apex-adapt-dark-ui`](https://github.com/swivelgames/apex-adapt-dark-ui) by [Swivelgames](https://github.com/swivelgames)
 
 This theme works the best on [Fira Code](https://github.com/tonsky/FiraCode) font and [Gloom syntax theme](https://atom.io/themes/gloom).
 
@@ -15,6 +15,7 @@ Install this theme using __Settings > Install__. Select the "Themes" toggle and 
 
 For the atom package page, visit: [https://atom.io/themes/serene-ui](https://atom.io/themes/serene-ui)
 
+![Serene UI Preview](https://raw.githubusercontent.com/s-silva/serene-ui/master/preview.png)
 
 ### Settings
 
